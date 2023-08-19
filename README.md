@@ -4,6 +4,9 @@
 
 
 # I'm Azar Hajipour
+<div align="center">  
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="60%"/><br>
+</div>
 
 
 <p align="center">
