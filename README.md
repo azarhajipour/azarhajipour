@@ -25,8 +25,6 @@ You have stayed on my page for:
 <br><img width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><br><br>
 
 🌱 I’m currently learning website full stack
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-<br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Skills** :
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
