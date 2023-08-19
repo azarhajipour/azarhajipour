@@ -43,6 +43,8 @@ You have stayed on my page for:
 <img src ="https://comparecamp.com/media/uploads/2019/02/Code-Blocks-220x90.jpg"/>
 
 
+## 📫How to reach me:
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
 <!--
 **azarhajipour/azarhajipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
