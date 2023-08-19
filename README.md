@@ -3,10 +3,11 @@
     </div>
 
 
-# I'm Azar Hajipour
+# I'm Azar Hajipour 
 <div align="center">  
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="60%"/><br>
 </div>
+
 
 
 <p align="center">
@@ -33,7 +34,10 @@ You have stayed on my page for:
 <p align="center">
 <br><img width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><br><br>
 
-🌱 I’m currently learning website full stack
+🌱 I’m currently learning website full stack 
+
+
+<img src="https://katalinszilardhungarianspecializedtranslations.files.wordpress.com/2018/05/tumblr_o2a9wxkfxi1r6l65eo1_1280.gif" width="100">
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Skills** :
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
