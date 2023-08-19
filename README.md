@@ -15,6 +15,12 @@
 <a href="https://github.com/azarhajipour?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/azarhajipour?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/azarhajipour"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Code+%3D+Love">
+  </a>
+</p>
 <div align="center">
   <h3 align="center">
 You have stayed on my page for:
