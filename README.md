@@ -22,6 +22,9 @@
   <a href="https://github.com/azarhajipour"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Code+%3D+Love">
   </a>
 </p>
+
+I am currently a computer science student studying at Gilan University.
+
 <div align="center">
   <h3 align="center">
 You have stayed on my page for:
