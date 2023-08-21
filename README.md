@@ -23,7 +23,7 @@
   </a>
 </p>
 
-I am currently a computer science student studying at Gilan University.
+🌱I am currently a computer science student studying at Gilan University.
 
 <div align="center">
   <h3 align="center">
